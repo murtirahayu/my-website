@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Halaman Pertamaku woiiiiiiiiiiii</title>
+    <title>Halaman Pertamaku</title>
 </head>
 <body>
     <h1>Selamat Datang di Website Saya</h1>
